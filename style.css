@@ -86,3 +86,42 @@ p{
 .margin-modify{
     margin: 60px 60px 100px;
 }
+.divided-three{
+    width: 70%;
+}
+.divided-three img{
+    width: 65%;
+    padding-left: 100px;
+}
+#font-dec{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    padding-top: 30px;
+}
+.pad-dec{
+    margin-right: 210px;
+}
+.banner-set{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 200px;
+    margin: 100px 100px 100px;
+}
+.divided-four{
+    width: 50%;
+    padding-left: 100px;
+}
+.divided-four img{
+    width: 70%;
+    margin-right: 200px;
+    padding-right: 100px;
+}
+.banner-two{
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    margin: 100px 100px 100px 100px;
+    background-size: 200px;
+    
+}
