@@ -15,7 +15,7 @@ font-family: 'Poppins', sans-serif;
     padding-top: 100px;    
 }
 .divide-section img{  
-    width: 60%;
+    width: 50%;
 }
 .image{
     position: top;
@@ -45,21 +45,44 @@ p{
     color: royalblue;
 }
 .modify-head{
-    padding-left: 500px;
+    padding-left: 400px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;   
 }  
 .three-part{
-   display: block;
    width: 25%; 
    padding-left: 50px; 
+   
 }
 .three-part img{
-    width: 50%;
+    width: 60%;   
 }
 .part-modify{
-    margin-left: 200px;
-    margin-right: 160px;  
+    margin-left: 100px;
+    margin-right: 100px; 
+    padding: 5px 5px 5px; 
 }
-.illustrator-edit{
-    width: 10px;
+#back-color-one{
+    border-radius: 25px;
+    background-color: rgb(228, 241, 241);
+    margin-right: 30px;
+    padding-right: 35px;
+    margin-left: 50px;
+    padding: 30px;
+}
+#back-color-two{
+    border-radius: 25px;
+    background-color: rgb(236, 222, 224);
+    margin-right: 30px;
+    padding-right: 35px;
+    padding: 30px;
+}
+#back-color-three{
+    border-radius: 25px;
+    background-color: rgb(236, 236, 204);
+    padding-right: 35px;
+    margin-right: 100px;
+    padding: 30px;
+}
+.margin-modify{
+    margin: 60px 60px 100px;
 }
